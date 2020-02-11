@@ -1,0 +1,40 @@
+#Header{
+	width: 100%;
+	background-color: #403e72;
+	height:50px;
+	margin:0;
+}
+#Header ul{
+	float: right;
+	list-style: none;
+	margin-right: 20px;
+	
+}
+#Header ul li{
+	padding-left: 10px;
+	float: left;
+}
+#Header1{
+	background-image: url(../img/email.png);
+	background-repeat: no-repeat;
+	padding-left: 50px;
+	float: left;
+	padding-left: 50px;
+	background-size: 50px 50px;
+	height: 50px;
+	width: 20%;
+	line-height: 50px;
+	margin-left: 50px ;
+}
+
+#Header2{
+	background-image: url(../img/phonecall.svg);
+	background-repeat: no-repeat;
+	float: left;
+	padding-left: 50px;
+	background-size: 50px 50px;
+	height: 50px;
+	width: 20%;
+	line-height: 50px;
+	margin-left: 50px ;
+}

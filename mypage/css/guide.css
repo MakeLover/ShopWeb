@@ -1,0 +1,32 @@
+#Guide{
+	background-color: black;
+	height: 54px;
+	margin: 0 auto;
+	text-align: center;
+}
+#Guide ul{
+	margin: 0 auto;
+	height: 54px;
+	display: table;
+}
+#Guide ul li{
+	list-style: none;
+	float: left;
+	color: white;
+	padding-left: 25px;
+	padding-right: 25px;
+	height: 54px;
+	border-top: 5px #000000;
+	line-height: 54px;
+	transition: 0.2s linear;
+}
+#Guide ul li:hover{
+	
+	color: #00FFFF;
+	cursor: pointer;
+	border-top:5px #00FFFF inset;
+	
+}
+#offers{
+	
+}
